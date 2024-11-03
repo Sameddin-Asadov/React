@@ -1,6 +1,17 @@
 import React from 'react'
 
+export const users =[
+    {
+        name:"Sameddin",
+        password:"1"
+    },
+{
+    name:"Sam",
+    passwod:"2"
+}
+]
 function Login() {
+    
   return (
     <div>
       <div>
